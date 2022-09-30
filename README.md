@@ -3,6 +3,9 @@ A "game engine" that's just a framework for you to hang off of. Cbyrd is also Ma
 
 # CHANGELOG 
 
+## VERSION 000.C.22
+- Forgot to delete files, whoops.
+
 ## VERSION 000.B.22
 - More things added to the "future" section. 
 
