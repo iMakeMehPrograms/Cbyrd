@@ -1,0 +1,8 @@
+Test log to open file.
+Running starter func...Starter func ran, starting tickthread.
+Tickthread init, waiting for join, will occur in ~1 hour if not ended.
+Iothread init, waiting for join, will occur after tickthread joins.
+Tickthread joined.
+Iothread joined.
+Running ender function...
+Ender function done, closing program.

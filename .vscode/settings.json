@@ -1,0 +1,8 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "deque": "cpp",
+        "algorithm": "cpp",
+        "cstdlib": "cpp"
+    }
+}
